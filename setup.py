@@ -20,16 +20,16 @@ setuptools.setup(
     author_email = 'nam@caucho.com',
     url = 'http://baratine.io/',
 
-    packages = 'baratine',
-    install_requires = ['inspect', 'requests'],
+    packages = ['baratine'],
+    install_requires = ['requests'],
     
     classifiers = [
-        'Development Status :: 5 - Production/Staple',
+        'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: Apache Software License',
         'Environment :: Console',
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
-        'Topic :: Software Development :: Libraries,
+        'Topic :: Software Development :: Libraries',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.2',

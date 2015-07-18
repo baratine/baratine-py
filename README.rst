@@ -1,7 +1,7 @@
 baratine-py
 ============================
 
-This is a Python client for _Baratine: http://baratine.io/.
+This is a Python client for `Baratine <http://baratine.io/>`_.
 
 ::
 
